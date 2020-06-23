@@ -1,0 +1,5 @@
+E:\Son\C#.net\Baitap\RPC\ClientRPC\RPC\bin\Debug\RPC.exe
+E:\Son\C#.net\Baitap\RPC\ClientRPC\RPC\bin\Debug\RPC.pdb
+E:\Son\C#.net\Baitap\RPC\ClientRPC\RPC\obj\Debug\ResolveAssemblyReference.cache
+E:\Son\C#.net\Baitap\RPC\ClientRPC\RPC\obj\Debug\RPC.exe
+E:\Son\C#.net\Baitap\RPC\ClientRPC\RPC\obj\Debug\RPC.pdb

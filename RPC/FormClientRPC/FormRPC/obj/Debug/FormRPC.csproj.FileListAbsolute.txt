@@ -1,0 +1,33 @@
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\ResolveAssemblyReference.cache
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Form1.resources
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Properties.Resources.resources
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.csproj.GenerateResource.Cache
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.pdb
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.pdb
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.exe
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.pdb
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\ResolveAssemblyReference.cache
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Form1.resources
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Properties.Resources.resources
+D:\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.csproj.GenerateResource.Cache
+D:\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.exe
+D:\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.pdb
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.exe
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.pdb
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.exe
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.pdb
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\ResolveAssemblyReference.cache
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Form1.resources
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Properties.Resources.resources
+D:\BanMayBay_RPC_v1\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.csproj.GenerateResource.Cache
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.pdb
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\bin\Debug\FormRPC.pdb
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\ResolveAssemblyReference.cache
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.About.resources
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Form1.resources
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.Properties.Resources.resources
+E:\Son\C#.net\Baitap\RPC\BanMayBay_RPC_v1 (Demo)\RPC\FormClientRPC\FormRPC\obj\Debug\FormRPC.csproj.GenerateResource.Cache

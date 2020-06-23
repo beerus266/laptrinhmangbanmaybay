@@ -1,0 +1,8 @@
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\bin\Release\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\bin\Release\FormRPC.pdb
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\ResolveAssemblyReference.cache
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\FormRPC.Form1.resources
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\FormRPC.Properties.Resources.resources
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\FormRPC.csproj.GenerateResource.Cache
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\FormRPC.exe
+E:\Son\C#.net\Baitap\RPC\FormClientRPC\FormRPC\obj\Release\FormRPC.pdb
